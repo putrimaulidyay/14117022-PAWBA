@@ -1,0 +1,19 @@
+1.5 Menjawab Pertanyaan
+1.  Lakukanlah perubahan pada kode HTML sesuai keinginan anda, Pernakah terjadi error ketika adakesalahan kode? 
+    Jawab :
+    Pernah, apalagi sering terjadi jika Saya salah dalam menginput syntax tag HTML. 
+
+2.  Cobalah ubah nilai meta refresh <meta HTTP-EQUIV="REFRESH" content="5; url=http://google.co.id"> apa yang terjadi?, maka jelaskan apa diantara kegunaan meta dokumen? 
+    Jawab :
+    Halaman web yang awalnya biasa saja saat dibuka, apabila telah ditambahkan meta data maka halaman yang biasa tadi berubah alih ke google.
+    Kegunan meta dokumen adalah kunci untuk mendapatkan peringkat halaman web blogspot yang baik di search engine. 
+    Kegunaan meta tag dalam sebuah dokumen html memberikan informasi tentang berbagai aspek dari halaman web atau blogspot, baik dari nama penulis bahasa yang digunakan, judul dan kata kunci dari halaman web.
+
+3. Jelaskan fungsi tag HTML pada Table: thead, tbody, tr, th serta td!
+    Jawab :
+    a. tbody digunakan untuk mengelompokkan isi body di dalam sebuah tabel.
+    b. tr digunakan untuk membuat baris di dalam sebuah tabel.
+    c. th digunakan sebagai sel header di dalam sebuah tabel, seperti height, width, bgcolour, background, align, valign, title, colspan, rowspan
+    d. td digunakan sebagai sel  sel di dalam sebuah table. Height, width, bgcolor, background, align, valign, title, colspan, rowspan.
+    e. thead digunakan untuk mengelompokkan isi header di dalam sebuah tabel.
+    
