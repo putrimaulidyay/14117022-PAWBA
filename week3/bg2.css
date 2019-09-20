@@ -1,0 +1,22 @@
+h1 {
+    background-image: pink;
+    font-family: arial;
+    color: aquamarine;
+ }
+ h4 {
+     color:yellow;
+ }
+ h5 {
+     color: pink;
+ }
+ p {
+    color: black;
+ }
+ body {
+    background-image: url("image.jpg");
+    background-repeat: no-repeat;
+    background-position: fixed;
+    width: 100%;
+    background-size: 100% 100%;
+    background-attachment fixed;
+}
